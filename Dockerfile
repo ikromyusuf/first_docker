@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 
-Run echo "hi"
+RUN echo "hi"
